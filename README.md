@@ -109,18 +109,18 @@ After getting the directory with links categorized, it is necessarily a good sof
 - In Mozilla Firefox (Ctrl+shift+O) there are tags, vist count, date added, date last modified, and sort by this aspects but the sort is only temporal and not affect to the future view. Also the search only works with links and not with folders.	
 ![screen-gif](Img/firefox-bk.gif)
 
-
 - In [raindrop.io](https://raindrop.io/) yo can search for folders, tags and links. It's the best bookmark manager but only works online.
 ![screen-gif](Img/raindrop_io.gif)
 
+Here is a mind map of the best tool to create a bookmark manager.
+![Bookmarks-todo](Img/Bookmarks-todo.png)
+	
+Table comparative of differents bookmark managers.
 	
 | App                  | Chrome    | Firefox  | Raindrop.io |
 |:--------------------:|:---------:|:--------:|:-----------:|
-| Graph of bookmarks   | --        | --       | --          |
+| Graph of bookmarks   |   NO      |   NO     |   NO        |
 | Local / Online       | Local     |  Local   | Online      |
-| Search folders       |  YES      |  NO      |  YES        |
-| Stored in local      | YES       |  YES     | NO          |
+| Search for folders   |  YES      |  NO      | YES         |
 | Tags                 |  NO       |  YES     | YES         |	
 	  
-Here is a mind map of the best tool to create a bookmark manager.
-![Bookmarks-todo](Img/Bookmarks-todo.png)
