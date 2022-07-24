@@ -1,5 +1,5 @@
 # Interneto
-Interneto is a personal free collection / directory / OSINT of categorized webs (~25k webs).
+Interneto is a personal free collection / directory / OSINT of categorized webs (~30k webs).
 The directory is structured in !Interneto (info folder) + 13 main categories with subcategories inside where are accordingly stored the links. These links are homepage sites like https://subdomain.domain.tld/. Also there are two  specific categories: one for content of websites (audios, books, news) saved in the "Content" and public users of platforms (content creators) in "Channels & Profiles". Besides there are hashtags to facilitate the search.
 
 **Interneto** = **In** + **Ter** + **Net** + **O** = **In**side of the **Ter**a (1 trillion) networks circular closed connections (**O**)
