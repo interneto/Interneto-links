@@ -104,16 +104,14 @@ The main problem is that the classification system and the knowledge is a person
 After getting the directory with links categorized, it is necessarily a good software to manage, search and share the information. The easist way to do it is to upload an html with all the links categorized to a browser (there are only two based on Chromium and firefox) and search the information there. But there are differences:
 
 - In (chromium)[chrome://bookmarks/] you can only see the name of the web and the url, and you can search the coincidences names in folders, subfolders and links, option to show the folder of a link and sort links by name.
-![screen-gif](Img/chrome-bookmarks.mp4)
 ![screen-gif](Img/chrome-bk.gif)
 
 - In Mozilla Firefox (Ctrl+shift+O) there are tags, vist count, date added, date last modified, and sort by this aspects but the sort is only temporal and not affect to the future view. Also the search only works with links and not with folders.	
-![screen-gif](Img/firefox-bookmarks.mp4)
 ![screen-gif](Img/firefox-bk.gif)
 
 
 - In [raindrop.io](https://raindrop.io/) yo can search for folders, tags and links. It's the best bookmark manager but only works online.
-![screen-gif](Img/raindrop_io.mp4)
+![screen-gif](Img/raindrop_io.gif)
 
 	
 | App                  | Chrome    | Firefox  | Raindrop.io |
