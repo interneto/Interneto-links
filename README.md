@@ -100,7 +100,7 @@ With a big list of categorized selected links, you can create a web directory ve
 
 The main problem is that the classification system and the knowledge is a personal thing. For that reason it would be great to create a bookmark manager based on your thoughts to satisfy them.
 
-## Next step: Bookmark manager app
+## Next step: [Interneto manager](https://github.com/InTerNet0/interneto-manager)
 After getting the directory with links categorized, it is necessarily a good software to manage, search and share the information. The easist way to do it is to upload an html with all the links categorized to a browser (there are only two based on Chromium and firefox) and search the information there. But there are differences:
 
 - In (chromium)[chrome://bookmarks/] you can only see the name of the web and the url, and you can search the coincidences names in folders, subfolders and links, option to show the folder of a link and sort links by name.
